@@ -1,0 +1,15 @@
+{
+  "name": "riot-vs-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/http-server . -p 4000 -o"
+  },
+  "author": "Danilo Alonso",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.10.0"
+  }
+}

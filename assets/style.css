@@ -1,0 +1,48 @@
+body {
+
+    padding: 20px;
+    font-size: 20px;
+    font-family: monospace;
+
+    text-align: center;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+    font-weight: bold;
+}
+
+img {
+    max-width: 500px;
+    margin: 20px 0;
+}
+
+h1 { font-size: 2.5em; }
+h2 { font-size: 2em; }
+h3 { font-size: 1.75em; }
+h4 { font-size: 1.5em; }
+h5 { font-size: 1.25em; }
+h6 { font-size: 1em; }
+
+a {
+
+    margin: 0 5px;
+    padding: 10px 20px;
+    color: #fff;
+    background: #00f;
+    display: inline-block;
+    line-height: 15px;
+    text-decoration: none;
+}
+
+small {
+
+    font-weight: normal;
+    font-size: 12px;
+}
+
+.inline {
+    display: inline-block;
+    margin: 20px 0;
+}
