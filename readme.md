@@ -71,7 +71,7 @@ For an "fair and balanced" comparison, lets see what everyone else is saying abo
 - Minimal DOM operations
 - Built-in preprocessors for CoffeeScript, ES6 (Babel), TypeScript, LiveScript and Jade
 - Scoped CSS inside components
-- Under 11KB gzipped
+- 6KB gzipped (https://cdnjs.cloudflare.com/ajax/libs/riot/4.6.1/riot.min.js)
 - Fast rendering
 - Doesn't assume things about your workflow
 - Router is optional
@@ -156,12 +156,12 @@ Workflow using processed `.tag` files
 - Official support and tooling
 - Similar to Angular, but simpler and smaller
 - More sophisticated debugging tools vs Riot
-- Under 20kb gzipped
 - Slightly Faster rendering vs Riot
 
 ###### CONS:
 - Larger API than Riot
 - Similar to Angular, lol
+- 23KB gzipped (https://cdn.jsdelivr.net/npm/vue@2.6.10/dist/vue.runtime.min.js)
 - Vue-specific directives/attributes (v-for, v-on:click, v-if, etc)
 - Assumes things about your workflow (hot reload, state control, router, animations)
 - Steeper learning curve vs RiotJS
